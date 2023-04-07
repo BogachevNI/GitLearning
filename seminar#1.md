@@ -30,3 +30,8 @@ git log
 **Для укороченного просмотра версий нужно прописать:**
 
 - git reflog
+
+**Для оформления цитат используется символ ">"**
+
+- > This is an example to showcase the usage of symbol ">".
+
