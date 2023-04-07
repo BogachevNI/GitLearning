@@ -35,3 +35,6 @@ git log
 
 - > This is an example to showcase the usage of symbol ">".
 
+**Для переключений между ветвями дерева версий нужно прописать:**
+
+* git checkout
